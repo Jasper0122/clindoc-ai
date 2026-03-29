@@ -20,7 +20,7 @@ const LoginPage = () => {
             {/* Logo */}
             <div className="mb-6 flex flex-col items-center gap-3">
               <div className="flex h-12 w-auto min-w-[3rem] items-center justify-center rounded-lg bg-primary px-3">
-                <span className="text-sm font-bold tracking-wide text-primary-foreground">AHMC</span>
+                <span className="text-sm font-bold tracking-wide text-primary-foreground">CDX</span>
               </div>
               <div className="text-center">
                 <h1 className="text-base font-semibold text-foreground whitespace-nowrap">
@@ -39,7 +39,7 @@ const LoginPage = () => {
                 <Input
                   id="email"
                   type="email"
-                  placeholder="name@sgvmc.org"
+                  placeholder="name@example.com"
                 />
               </div>
               <div className="space-y-2">

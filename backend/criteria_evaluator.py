@@ -5,7 +5,7 @@ import re
 
 from alignment_types import ExtractedCriterion, ClinicalData, EvaluatedCriterion  # type: ignore
 
-logger = logging.getLogger("clinicalnlp.criteria_evaluator")
+logger = logging.getLogger("clindocai.criteria_evaluator")
 logger.setLevel(logging.INFO)
 
 

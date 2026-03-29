@@ -11,7 +11,7 @@ from .alignment_engine import run_alignment_engine
 
 
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger("clinicalnlp.backend")
+logger = logging.getLogger("clindocai.backend")
 
 app = FastAPI(title="Clinical NLP Deterministic Backend")
 

@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
   // ✅ GitHub Pages 必须配置
-  base: "/clinicalNLP-deterministic/",
+  base: "/clindoc-ai/",
 
   server: {
     host: "::",

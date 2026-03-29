@@ -9,6 +9,6 @@
     "backend": "cd backend && uvicorn main:app --reload --port 8000",
     "frontend": "cd frontend && npm run dev"
   },
-  "name": "clinicalnlp-root",
+  "name": "clindoc-ai",
   "private": true
 }

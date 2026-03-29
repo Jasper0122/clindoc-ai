@@ -27,7 +27,7 @@ try:
 except Exception:
     ClinicalDataDC = None
 
-logger = logging.getLogger("clinicalnlp.alignment_engine")
+logger = logging.getLogger("clindocai.alignment_engine")
 logger.setLevel(logging.INFO)
 
 

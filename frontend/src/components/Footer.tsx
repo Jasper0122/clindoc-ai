@@ -3,10 +3,10 @@ const Footer = () => {
     <footer className="mt-auto border-t border-border">
       <div className="px-8 py-6 text-center">
         <p className="text-xs text-muted-foreground leading-relaxed">
-          San Gabriel Valley Medical Center
+          ClinDoc AI Demo System
         </p>
         <p className="text-xs text-muted-foreground leading-relaxed">
-          438 West Las Tunas Dr. · San Gabriel, CA 91776
+          For demonstration purposes only · Not for clinical use
         </p>
       </div>
     </footer>

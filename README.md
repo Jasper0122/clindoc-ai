@@ -1,4 +1,4 @@
-# 🏥 clinicalNLP-deterministic  
+# ClinDoc AI  
 ### Deterministic Clinical Documentation Optimization & MCG Admission Engine  
 
 A production-oriented deterministic clinical NLP system that transforms unstructured emergency department documentation into structured clinical intelligence and MCG-aligned admission reasoning.
@@ -236,7 +236,7 @@ System Output:
 # ⚙️ Setup
 
 git clone <repo-url>  
-cd clinicalNLP-deterministic  
+cd "ClinDoc AI"  
 
 python3 -m venv venv  
 source venv/bin/activate  
@@ -272,4 +272,4 @@ curl -X POST http://127.0.0.1:8000/upload -F "file=@/path/to/ER_note.pdf"
 
 ---
 
-clinicalNLP-deterministic demonstrates how structured clinical intelligence can be built without reliance on large language model inference, using a transparent, explainable, severity-weighted architecture suitable for regulated healthcare environments.
+ClinDoc AI demonstrates how structured clinical intelligence can be built without reliance on large language model inference, using a transparent, explainable, severity-weighted architecture suitable for regulated healthcare environments.

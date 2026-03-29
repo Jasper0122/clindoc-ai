@@ -15,14 +15,14 @@ const Navbar = () => {
       <div className="flex h-16 items-center justify-between px-8">
         <div className="flex items-center gap-3">
           <div className="flex h-9 w-9 items-center justify-center rounded-md bg-primary">
-            <span className="text-xs font-bold tracking-wide text-primary-foreground">AHMC</span>
+            <span className="text-xs font-bold tracking-wide text-primary-foreground">CDX</span>
           </div>
           <div className="leading-tight">
             <p className="text-sm font-semibold text-foreground">
               Clinical Documentation Optimization
             </p>
             <p className="text-xs text-muted-foreground">
-              San Gabriel Valley Medical Center
+              ClinDoc AI Demo System
             </p>
           </div>
         </div>
