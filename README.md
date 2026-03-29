@@ -1,5 +1,7 @@
-# ClinDoc AI  
-### Deterministic Clinical Documentation Optimization & MCG Admission Engine  
+# ClinDoc AI
+### Deterministic Clinical Documentation Optimization & MCG Admission Engine
+
+![ClinDoc AI Demo](demo_head.png)
 
 A production-oriented deterministic clinical NLP system that transforms unstructured emergency department documentation into structured clinical intelligence and MCG-aligned admission reasoning.
 
